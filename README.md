@@ -55,5 +55,6 @@
 
 **Sources**  
 [KSH vs. BASH](http://www.differencebetween.net/technology/difference-between-ksh-and-bash/)  
-[Use BASH(Bourne Again Shell) or Kornshell](https://stackoverflow.com/questions/74844/bash-or-kornshell-ksh)
-[Debugging BASH scripts on the command line](http://skybert.net/bash/debugging-bash-scripts-on-the-command-line/) [Basic Shell Scripting Cheat Sheet](https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610)  
+[Use BASH(Bourne Again Shell) or Kornshell](https://stackoverflow.com/questions/74844/bash-or-kornshell-ksh)  
+[Debugging BASH scripts on the command line](http://skybert.net/bash/debugging-bash-scripts-on-the-command-line/)  
+[Basic Shell Scripting Cheat Sheet](https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610)  
